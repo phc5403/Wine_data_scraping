@@ -1,0 +1,128 @@
+(1, '검은과일'),  # black_fruit
+(2, '그린노트'),  # green_notes
+(3, '기타'),      # other
+(4, '꽃'),        # floral
+(5, '녹색과일'),  # green_fruit
+(6, '말린과일'),  # dried_fruit
+(7, '붉은과일'),  # red_fruit
+(8, '시트러스'),  # citrus
+(9, '열대과일'),  # tropical_fruits
+(10, '오크'),     # oak
+(11, '푸른과일'), # green_fruit
+(12, '핵과류'),   # stone_fruit
+(13, '향신료')    # spice
+
+// ////////////////////////////////////////////////////////
+
+"블랙체리": 1,    # black_cherry
+"오디": 2,        # mulberry
+"올리브": 3,      # olive
+"자두": 4,        # plum
+"구스베리": 5,    # gooseberry
+"민트": 6,        # mint
+"바질": 7,        # basil
+"세이지": 8,      # sage
+"아몬드": 9,      # almonds
+"오레가노": 10,   # oregano
+"유칼립투스": 11, # eucalyptus
+"처빌": 12,       # chervil
+"피망": 13,       # green_pepper
+"할라피뇨": 14,   #
+"허브": 15,       # herb
+"홍차": 16,       # black_tea
+"구운빵": 17,     # baked_breaed
+"꿀": 18,         # honey
+"돌": 19,         # stone
+"마른낙엽": 20,   # dry_fallen_leaves
+"맥주": 21,       # beer
+"밀랍": 22,       # beeswax
+"반창고": 23,     # band_aid
+"버섯": 24,       # mushroom
+"버터": 25,       # butter
+"분필": 26,       # chalk
+"생강": 27,       # ginger
+"석연슬레이트": 28, # stone_slate
+"숲바닥": 29,       # forest_floor
+"야생고기": 30,     # wild_meat
+"연필심": 31,       # pencil_lead
+"염분": 32,         # saline
+"절인고기": 33,     # cured_meat
+"점토": 34,         # clay
+"젖은상자": 35,     # wet_box
+"젖은자갈": 36,     # wet_gravel
+"젖은토양": 37,     # wet_soil
+"치즈": 38,         # cheese
+"크림": 39,         # cream
+"타르": 40,         # tar
+"화분흙": 41,       # potting_soil
+"훈제육": 42,       # smoked_meat
+"라벤더": 43,       # lavender
+"백합": 44,         # lily
+"아카시아": 45,     # acacia
+"오렌지꽃": 46,     # orange_blossom
+"인동덩굴": 47,     # honey_suckle
+"자스민": 48,       # jasmine
+"작약": 49,         # peony
+"장미": 50,         # rose
+"제라늄": 51,       # geranium
+"제비꽃": 52,       # violet
+"포푸리": 53,       # potpourri
+"히비스커스": 54,   # hibiscus
+"라임": 55,         # lime
+"매실": 56,         # plum
+"청배": 57,         # blue_pear
+"건포도": 58,       # raisins
+"무화과": 59,       # fig
+"용과": 60,         # dragon_fruit
+"딸기": 61,         # strawberry
+"라즈베리": 62,     # raspberry
+"붉은자두": 63,     # red_plum
+"석류": 64,         # pomegranate
+"체리": 65,         # cherry
+"크랜베리": 66,     # cranberry
+"토마토": 67,       # tomato
+"귤": 68,           # tangerine
+"레몬": 69,         # lemon
+"마멀레이드": 70,   # marmalade
+"오렌지": 71,       # orange
+"자몽": 72,         # grapefruit
+"구아바": 73,
+"리치": 74,
+"망고": 75,
+"바나나": 76,
+"키위": 77,
+"파인애플": 78,
+"풍선껌": 79,
+"가죽": 80,
+"견과류": 81,
+"담배": 82,
+"바닐라": 83,
+"백단": 84,
+"브리오슈": 85,
+"삼나무": 86,
+"시가박스": 87,
+"에스프레소": 88,
+"초콜릿": 89,
+"캐러멜": 90,
+"커피": 91,
+"코코넛": 92,
+"코코아": 93,
+"콜라": 94,
+"파이프담배": 95,
+"헤이즐넛": 96,
+"흑설탕": 97,
+"블루베리": 98,
+"모과": 99,
+"복숭아": 100,
+"사과": 101,
+"살구": 102,
+"감초": 103,
+"계피": 104,
+"붉은고추": 105,
+"육두구": 106,
+"정향": 107,
+"팔각": 108,
+"후추": 109,
+
+///////////////////////////////////////////
+
